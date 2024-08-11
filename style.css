@@ -1,0 +1,42 @@
+.login-form {
+  padding: 200px;
+}
+.bank-name {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.login-input {
+  padding: 50px;
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 10px;
+}
+.square-1 {
+  background-color: rgb(215, 6, 211);
+}
+.square-2 {
+  background-color: tomato;
+}
+.square-3 {
+  background-color: orange;
+}
+.square {
+  margin: 10px;
+  padding: 20px;
+  color: #fff;
+  border-radius: 10px;
+}
+.container {
+  padding: 100px 100px 0px 100px;
+}
+
+.footer {
+  padding: 50px;
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+#transaction-area {
+  display: none;
+}
